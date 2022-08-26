@@ -2,7 +2,7 @@
 
 A responsive ecommerce prduct page.
 
-## [Demo](hhttps://bilal-mushtaq.github.io/ecommerce-product-page/)
+## [Demo](https://bilal-mushtaq.github.io/ecommerce-product-page/)
 
 ![desktop-design](https://user-images.githubusercontent.com/107266315/186905752-0fd109ed-f6a5-4588-9307-06c16e200287.jpg)
 
